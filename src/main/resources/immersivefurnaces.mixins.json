@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "package": "io.github.printfn.immersivefurnaces.mixins",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [
+        "FurnaceMixin",
+        "FurnaceInvoker"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
